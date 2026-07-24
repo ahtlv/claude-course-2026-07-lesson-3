@@ -99,7 +99,7 @@ Playwright.
 |---|---|---|---|
 | [Playwright](https://github.com/microsoft/playwright-mcp) | Управление настоящим браузером (**мы его уже поставили**) | 🟢 | `@playwright/mcp` |
 | [Context7](https://github.com/upstash/context7) | Свежая документация фреймворков — агент перестаёт выдумывать устаревшие команды | 🟢 | `@upstash/context7-mcp` |
-| [Supabase](https://github.com/supabase/mcp) | База данных, авторизация и хранилище через промпты (**понадобится на занятии 4**) | 🟢 | `@supabase/mcp-server-supabase` |
+| [Supabase](https://github.com/supabase/mcp) | База данных, авторизация и хранилище через промпты | 🟢 | `@supabase/mcp-server-supabase` |
 | [GitHub](https://github.com/github/github-mcp-server) | Пул-реквесты, задачи, поиск по коду, проверка сборок | 🟡 | Ставится не через `npx`, а по адресу: `claude mcp add --transport http github https://api.githubcopilot.com/mcp` |
 
 ### Дизайн, данные, инфраструктура

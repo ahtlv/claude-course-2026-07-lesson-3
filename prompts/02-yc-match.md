@@ -111,6 +111,4 @@ https://www.ycombinator.com/rfs
 
 **Дальше:** открой `product-ideas.md`, выбери **одну** идею, которая откликается сильнее всего. Из неё на следующем занятии вырастет лендинг.
 
----
 
-*Промпт собран на основе `prompts/yc-rfs-match.md` из [hq-starter](https://github.com/serejaris/hq-starter) Сережи Риса. Адаптация под курс: источник контекста — `profile.md` вместо HQ, оценочные шкалы переведены на русский, вывод — в `work/StartUp/yc-rfs/`.*
